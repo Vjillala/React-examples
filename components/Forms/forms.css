@@ -1,0 +1,4 @@
+.invalid input {
+    border-color: var(--bs-danger) !important;
+    border-width: 3px !important;    
+}
